@@ -1,0 +1,6 @@
+# run server
+uvicorn main:app --reload
+
+# bash
+source ./venv/Scripts/activate
+deactivate
